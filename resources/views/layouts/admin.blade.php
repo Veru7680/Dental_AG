@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,11 +17,24 @@
         <!-- Styles -->
         @livewireStyles
     </head>
-    <body>
-        <div class="font-sans text-gray-900 antialiased">
-            {{ $slot }}
-        </div>
+    <body class="font-sans antialiased bg-gray-50">
+        
+    @include('layouts.includes.admin.navigation')
+
+   @include('layouts.includes.admin.sidebar')
+
+
+
+<div class="p-4 sm:ml-64">
+   <div class="mt-14">
+    {{$slot}}
+   </div>
+</div>
+
+
+        @stack('modals')
 
         @livewireScripts
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
     </body>
 </html>

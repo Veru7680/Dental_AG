@@ -15,5 +15,9 @@ title="Clinica AG" {{-- Aquí cambia el título de la página --}}
        prosicion de boton
     </x-slot>
 
+    <x-wire-button>
+        prueba
+    </x-wire-button>
+
 hola desed
 </x-admin-layout>

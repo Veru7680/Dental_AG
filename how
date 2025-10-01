@@ -1,0 +1,65 @@
+[33mcommit 404fcd659069dc83f55fe06ab65556a718fcb67a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Tue Sep 30 15:28:06 2025 -0400
+
+    chore: instalar y configurar WireUI
+
+[33mcommit 26f1481ece80d7c0486e51e6418e06a9d5d6a597[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Tue Sep 30 11:51:20 2025 -0400
+
+    agregar título de página y breadcrumbs dinámicos
+
+[33mcommit a7dfe5dd7a2b49343dbc0293cce27d942e8d1695[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Tue Sep 30 09:15:02 2025 -0400
+
+    (sidebar.blade): agregar soporte dinámico para items y submenús en el menú lateral
+
+[33mcommit 8db0d14838bd4d5d21465d12e92afe1e368de253[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Mon Sep 29 18:31:17 2025 -0400
+
+    agregar Font Awesome
+
+[33mcommit ffa9ff8ea5428a0c24575a3878c26e39e4b5ed31[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Mon Sep 29 08:32:29 2025 -0400
+
+    Actualización de estilos: modo oscuro reemplazado por modo claro
+
+[33mcommit 26c1843c9db4adba460bd606ce96c1f991d90e1d[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Mon Sep 29 07:54:05 2025 -0400
+
+    Actualizar plantilla administrador
+
+[33mcommit bf6a923145a2c0efb2802437128a042b6ad3e00b[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Sun Sep 28 22:41:57 2025 -0400
+
+    Agregar archivo de rutas para el panel de administrador
+
+[33mcommit 608c3122ec0a16d44c675496d5c4f2700e9c8310[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Sun Sep 28 22:18:00 2025 -0400
+
+    Configurar zona horaria
+
+[33mcommit 35ceae7d965189edf2e68a85d7276ad1b59fadb0[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Sun Sep 28 22:04:41 2025 -0400
+
+    Implementar carga de imagen de perfil
+
+[33mcommit 921235b35a014b26ca81a4021dfe18cfd9aacc41[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Sun Sep 28 21:53:02 2025 -0400
+
+    Soporte de idioma español en Laravel
+
+[33mcommit 24f139610f2ac65ba9d4914953b36523c20efb8e[m
+Author: Veru7680 <veru6198@gmail.com>
+Date:   Sun Sep 28 21:07:57 2025 -0400
+
+    intalacion de laravel y Jetstream
